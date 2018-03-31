@@ -1,3 +1,3 @@
 # Mancala
-javac Screen.java
-java Screen
+```javac Screen.java```
+```java Screen```
