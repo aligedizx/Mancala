@@ -1,3 +1,3 @@
 # Mancala
-```javac Screen.java```
+```javac Screen.java```  <br />
 ```java Screen```
